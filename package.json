@@ -20,5 +20,8 @@
   "dependencies": {
     "lodash": "^4.17.21"
   },
-  "keywords": []
+  "keywords": [],
+  "devDependencies": {
+    "jest": "^29.6.3"
+  }
 }
