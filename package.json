@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bahtiyar0/README/issues"
   },
-  "homepage": "https://github.com/bahtiyar0/README#readme"
+  "homepage": "https://github.com/bahtiyar0/README#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
