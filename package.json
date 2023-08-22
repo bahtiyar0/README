@@ -19,5 +19,6 @@
   "homepage": "https://github.com/bahtiyar0/README#readme",
   "dependencies": {
     "lodash": "^4.17.21"
-  }
+  },
+  "keywords": []
 }
