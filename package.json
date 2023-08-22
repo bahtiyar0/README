@@ -1,0 +1,20 @@
+{
+  "name": "my-test-repository",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "\"Мой первый проект на Хекслете\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahtiyar0/README.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bahtiyar0/README/issues"
+  },
+  "homepage": "https://github.com/bahtiyar0/README#readme"
+}
